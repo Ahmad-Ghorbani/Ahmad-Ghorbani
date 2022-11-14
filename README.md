@@ -1,20 +1,14 @@
 # Hi there 👋
 
----
-
 - 🔭 I’m currently working to build a crypto gateway platform as a front-end developer.
 - 🌱 I’m currently learning more about back-end development.
 - 👯 I’m looking to join a professional team.
 
 ## Connect with me
 
----
-
 [![Alt text](linkedIn.png)](https://www.linkedin.com/in/Ahmad-Ghorbani)
 
 ## Languages
-
----
 
 ![Alt text](JavaScriptLogo.png)&nbsp;&nbsp;&nbsp;&nbsp;![Alt text](HTMLLogo.png)&nbsp;&nbsp;&nbsp;&nbsp;![Alt text](CSSLogo.jpg)&nbsp;&nbsp;&nbsp;&nbsp;![Alt text](reactLogo.png)&nbsp;&nbsp;&nbsp;&nbsp;![Alt text](githubLogo.png)&nbsp;&nbsp;&nbsp;&nbsp;![Alt text](gitLogo.png)
 

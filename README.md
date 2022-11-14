@@ -8,7 +8,7 @@
 
 [![Alt text](linkedIn.png)](https://www.linkedin.com/in/Ahmad-Ghorbani)
 
-## Languages
+## Languages and Tools
 
 ![Alt text](JavaScriptLogo.png)&nbsp;&nbsp;&nbsp;&nbsp;![Alt text](HTMLLogo.png)&nbsp;&nbsp;&nbsp;&nbsp;![Alt text](CSSLogo.jpg)&nbsp;&nbsp;&nbsp;&nbsp;![Alt text](reactLogo.png)&nbsp;&nbsp;&nbsp;&nbsp;![Alt text](githubLogo.png)&nbsp;&nbsp;&nbsp;&nbsp;![Alt text](gitLogo.png)
 

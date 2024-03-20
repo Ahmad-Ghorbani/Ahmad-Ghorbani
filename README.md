@@ -1,8 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working to build a crypto gateway platform as a front-end developer.
-- 🌱 I’m currently learning more about back-end development.
-- 👯 I’m looking to join a professional team.
+- 🔭 I’m currently working at Zalando.
 
 ## Connect with me
 

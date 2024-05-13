@@ -1,6 +1,7 @@
 # Hi there 👋
-
+<!--
 - 🔭 I’m currently working at Zalando.
+-->
 
 ## Connect with me
 
